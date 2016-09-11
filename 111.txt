@@ -7,3 +7,4 @@ commit
 commit after
 add in local_second
 另一个分支 添加的。
+我是天才 in third。
