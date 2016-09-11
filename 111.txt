@@ -1,3 +1,6 @@
 AAAAAAAAAAAAAAA
 B BBBB        0911
 CCCC 0911
+Local add 0911
+before add
+commit
